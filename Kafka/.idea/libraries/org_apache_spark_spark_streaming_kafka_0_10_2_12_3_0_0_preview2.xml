@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="org.apache.spark:spark-streaming-kafka-0-10_2.12:3.0.0-preview2" type="repository">
+    <properties maven-id="org.apache.spark:spark-streaming-kafka-0-10_2.12:3.0.0-preview2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-streaming-kafka-0-10_2.12-3.0.0-preview2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spark-token-provider-kafka-0-10_2.12-3.0.0-preview2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-clients-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zstd-jni-1.4.0-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lz4-java-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snappy-java-1.1.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spark-tags_2.12-3.0.0-preview2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unused-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
